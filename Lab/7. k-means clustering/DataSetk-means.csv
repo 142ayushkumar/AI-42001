@@ -1,0 +1,500 @@
+temp,rain_1h,snow_1h,clouds_all,weather_description,traffic_volume,weather_main
+288.28,0,0,40,scattered clouds,5545,Clouds
+289.36,0,0,75,broken clouds,4516,Clouds
+289.58,0,0,90,overcast clouds,4767,Clouds
+290.13,0,0,90,overcast clouds,5026,Clouds
+291.14,0,0,75,broken clouds,4918,Clouds
+291.72,0,0,1,sky is clear,5181,Clear
+293.17,0,0,1,sky is clear,5584,Clear
+293.86,0,0,1,sky is clear,6015,Clear
+294.14,0,0,20,few clouds,5791,Clouds
+293.1,0,0,20,few clouds,4770,Clouds
+290.97,0,0,20,few clouds,3539,Clouds
+289.38,0,0,1,sky is clear,2784,Clear
+288.61,0,0,1,sky is clear,2361,Clear
+287.16,0,0,1,sky is clear,1529,Clear
+285.45,0,0,1,sky is clear,963,Clear
+284.63,0,0,1,sky is clear,506,Clear
+283.47,0,0,1,sky is clear,321,Clear
+281.18,0,0,1,sky is clear,273,Clear
+281.09,0,0,1,sky is clear,367,Clear
+279.53,0,0,1,sky is clear,814,Clear
+278.62,0,0,1,sky is clear,2718,Clear
+278.23,0,0,1,sky is clear,5673,Clear
+278.12,0,0,1,sky is clear,6511,Clear
+282.48,0,0,1,sky is clear,5471,Clear
+291.97,0,0,1,sky is clear,5097,Clear
+293.23,0,0,1,sky is clear,4887,Clear
+294.31,0,0,1,sky is clear,5337,Clear
+295.17,0,0,1,sky is clear,5692,Clear
+295.13,0,0,1,sky is clear,6137,Clear
+293.66,0,0,20,few clouds,4623,Clouds
+290.65,0,0,20,few clouds,3591,Clouds
+288.19,0,0,20,few clouds,2898,Clouds
+287.1,0,0,1,sky is clear,2637,Clear
+286.25,0,0,1,sky is clear,1777,Clear
+285.26,0,0,1,sky is clear,1015,Clear
+284.55,0,0,1,sky is clear,598,Clear
+283.47,0,0,1,sky is clear,369,Clear
+283.17,0,0,1,sky is clear,312,Clear
+282.04,0,0,1,sky is clear,367,Clear
+281.69,0,0,1,sky is clear,835,Clear
+281.32,0,0,1,sky is clear,2726,Clear
+280.74,0,0,1,sky is clear,5689,Clear
+280.57,0,0,1,sky is clear,6990,Clear
+281.86,0,0,1,sky is clear,5985,Clear
+284.98,0,0,1,sky is clear,5309,Clear
+289.18,0,0,1,sky is clear,4603,Clear
+291.55,0,0,1,sky is clear,4884,Clear
+294.97,0,0,1,sky is clear,5104,Clear
+296.38,0,0,1,sky is clear,5178,Clear
+297.32,0,0,1,sky is clear,5501,Clear
+298.17,0,0,1,sky is clear,5713,Clear
+298.06,0,0,20,few clouds,6292,Clouds
+297.67,0,0,20,few clouds,6057,Clouds
+296.36,0,0,40,scattered clouds,4907,Clouds
+293.85,0,0,40,scattered clouds,3503,Clouds
+292.43,0,0,40,scattered clouds,3037,Clouds
+291.77,0,0,75,broken clouds,2822,Clouds
+291.36,0,0,75,broken clouds,1992,Clouds
+291.12,0,0,75,broken clouds,1166,Clouds
+290.63,0,0,75,broken clouds,627,Clouds
+290.46,0,0,40,scattered clouds,388,Clouds
+289.26,0,0,0,sky is clear,368,Clear
+283.21,0,0,75,broken clouds,2489,Clouds
+282.24,0,0,90,overcast clouds,5537,Clouds
+281.69,0,0,90,overcast clouds,6628,Clouds
+280.57,0,0,90,overcast clouds,5534,Clouds
+280.02,0,0,75,broken clouds,5403,Clouds
+280.11,0,0,75,broken clouds,4770,Clouds
+280,0,0,90,overcast clouds,5217,Clouds
+280.53,0,0,90,overcast clouds,5870,Clouds
+281.43,0,0,75,broken clouds,5967,Clouds
+281.78,0,0,90,overcast clouds,6108,Clouds
+281.91,0,0,90,overcast clouds,6128,Clouds
+281.73,0,0,90,overcast clouds,6069,Clouds
+281.42,0,0,90,overcast clouds,6169,Clouds
+280.87,0,0,90,overcast clouds,5384,Clouds
+280.15,0,0,90,overcast clouds,4063,Clouds
+279.78,0,0,90,overcast clouds,3364,Clouds
+279.65,0,0,75,broken clouds,2971,Clouds
+279.22,0,0,40,scattered clouds,2450,Clouds
+279.06,0,0,40,scattered clouds,1832,Clouds
+278.81,0,0,90,overcast clouds,1231,Clouds
+278.55,0,0,90,overcast clouds,718,Clouds
+278.59,0,0,90,overcast clouds,545,Clouds
+276.99,0,0,75,broken clouds,411,Clouds
+276.35,0,0,20,few clouds,688,Clouds
+275.4,0,0,1,sky is clear,1352,Clear
+275.17,0,0,1,sky is clear,2072,Clear
+274.99,0,0,1,sky is clear,3342,Clear
+275.09,0,0,40,scattered clouds,4258,Clouds
+276.88,0,0,20,few clouds,4861,Clouds
+278.04,0,0,20,few clouds,5191,Clouds
+279.08,0,0,40,scattered clouds,5669,Clouds
+280.12,0,0,75,broken clouds,5074,Clouds
+280.25,0,0,75,broken clouds,5025,Clouds
+280,0,0,75,broken clouds,5153,Clouds
+279.06,0,0,90,overcast clouds,5024,Clouds
+278.91,0,0,90,overcast clouds,4779,Clouds
+278.39,0,0,90,overcast clouds,4362,Clouds
+278.16,0,0,90,overcast clouds,3860,Clouds
+278.16,0,0,90,overcast clouds,3160,Clouds
+277.93,0,0,90,overcast clouds,2992,Clouds
+276.9,0,0,90,overcast clouds,3202,Clouds
+276.34,0,0,75,broken clouds,1941,Clouds
+276.11,0,0,75,broken clouds,1233,Clouds
+275.73,0,0,90,overcast clouds,323,Clouds
+275.65,0,0,90,overcast clouds,312,Clouds
+275.51,0,0,75,broken clouds,627,Clouds
+275.05,0,0,90,overcast clouds,1508,Clouds
+274.77,0,0,90,overcast clouds,1539,Clouds
+274.77,0,0,75,broken clouds,2232,Clouds
+275.55,0,0,75,broken clouds,4568,Clouds
+276.24,0,0,75,broken clouds,4624,Clouds
+277.01,0,0,90,overcast clouds,4529,Clouds
+277.43,0,0,90,overcast clouds,5139,Clouds
+278.45,0,0,90,overcast clouds,6640,Clouds
+279.27,0,0,90,overcast clouds,6589,Clouds
+279.27,0,0,90,overcast clouds,4429,Clouds
+279.44,0,0,90,overcast clouds,4329,Clouds
+279.32,0,0,90,overcast clouds,3833,Clouds
+279.27,0,0,90,overcast clouds,4015,Clouds
+278.11,0,0,90,overcast clouds,3382,Clouds
+276.79,0,0,75,broken clouds,2815,Clouds
+275.73,0,0,90,overcast clouds,2110,Clouds
+274.88,0,0,75,broken clouds,1555,Clouds
+273.92,0,0,20,few clouds,959,Clouds
+273.08,0,0,20,few clouds,455,Clouds
+272.62,0,0,20,few clouds,336,Clouds
+271.78,0,0,1,sky is clear,265,Clear
+271.05,0,0,1,sky is clear,314,Clear
+270.63,0,0,1,sky is clear,779,Clear
+270.33,0,0,1,sky is clear,2571,Clear
+269.61,0,0,20,few clouds,5563,Clouds
+270.01,0,0,20,few clouds,6676,Clouds
+271.23,0,0,20,few clouds,5966,Clouds
+273.71,0,0,20,few clouds,4832,Clouds
+276.77,0,0,20,few clouds,4395,Clouds
+279.47,0,0,20,few clouds,4411,Clouds
+279.84,0,0,1,sky is clear,4648,Clear
+282.34,0,0,40,scattered clouds,4602,Clouds
+282.94,0,0,40,scattered clouds,5125,Clouds
+283.48,0,0,1,sky is clear,5502,Clear
+284.33,0,0,1,sky is clear,5979,Clear
+284.48,0,0,40,scattered clouds,5663,Clouds
+284.23,0,0,40,scattered clouds,4259,Clouds
+281.99,0,0,20,few clouds,3069,Clouds
+279.81,0,0,1,sky is clear,2378,Clear
+279.35,0,0,1,sky is clear,2030,Clear
+278.9,0,0,1,sky is clear,1400,Clear
+278.46,0,0,1,sky is clear,917,Clear
+277.78,0,0,1,sky is clear,515,Clear
+277.27,0,0,1,sky is clear,302,Clear
+277.47,0,0,1,sky is clear,251,Clear
+276.97,0,0,20,few clouds,798,Clouds
+276.52,0,0,40,scattered clouds,2678,Clouds
+276.6,0,0,40,scattered clouds,5733,Clouds
+277.31,0,0,75,broken clouds,6449,Clouds
+278.38,0,0,90,overcast clouds,5765,Clouds
+279.35,0,0,90,overcast clouds,5599,Clouds
+281.37,0,0,90,overcast clouds,4534,Clouds
+283.11,0,0,90,overcast clouds,4691,Clouds
+284.08,0,0,75,broken clouds,5067,Clouds
+285.14,0,0,75,broken clouds,5030,Clouds
+286.35,0,0,90,overcast clouds,5300,Clouds
+287.23,0,0,100,light rain,5777,Rain
+288.53,0,0,90,overcast clouds,6349,Clouds
+290.37,0,0,90,overcast clouds,6127,Clouds
+290.13,0,0,90,overcast clouds,4460,Clouds
+288.86,0,0,75,broken clouds,3418,Clouds
+287.36,0,0,90,overcast clouds,2775,Clouds
+285.11,0,0,90,overcast clouds,2306,Clouds
+283.46,0,0,90,overcast clouds,1846,Clouds
+282.45,0,0,90,overcast clouds,947,Clouds
+281.88,0,0,90,overcast clouds,494,Clouds
+281.78,0,0,90,overcast clouds,332,Clouds
+281.09,0,0,75,broken clouds,261,Clouds
+281.17,0,0,90,overcast clouds,361,Clouds
+281.25,0,0,92,sky is clear,5875,Clear
+281.25,0,0,99,light rain,6793,Rain
+281.25,0,0,99,light intensity drizzle,6793,Drizzle
+280.1,0,0,99,light rain,6283,Rain
+280.1,0,0,99,light intensity drizzle,6283,Drizzle
+279.61,0,0,99,light rain,5680,Rain
+279.61,0,0,99,light intensity drizzle,5680,Drizzle
+279.67,0,0,99,sky is clear,4632,Clear
+280.19,0,0,1,sky is clear,4887,Clear
+282.09,0,0,75,broken clouds,5030,Clouds
+282.26,0,0,75,broken clouds,5067,Clouds
+282.05,0,0,90,overcast clouds,5227,Clouds
+281.59,0,0,90,overcast clouds,5610,Clouds
+281.23,0,0,81,sky is clear,6286,Clear
+282.6,0,0,81,sky is clear,4775,Clear
+282.6,0,0,81,sky is clear,3340,Clear
+282.6,0,0,81,sky is clear,3013,Clear
+282.6,0,0,81,sky is clear,2603,Clear
+282.6,0,0,81,sky is clear,1910,Clear
+282.6,0,0,81,sky is clear,1037,Clear
+273.9,0,0,1,sky is clear,347,Clear
+274.4,0,0,75,broken clouds,350,Clouds
+274.05,0,0,75,broken clouds,850,Clouds
+273.71,0,0,40,scattered clouds,2791,Clouds
+272.66,0,0,1,sky is clear,5809,Clear
+272.65,0,0,1,sky is clear,6798,Clear
+272.52,0,0,1,sky is clear,6304,Clear
+275.19,0,0,20,few clouds,5291,Clouds
+275.34,0,0,1,sky is clear,4638,Clear
+284.1,0,0,50,sky is clear,5557,Clear
+284.1,0,0,50,sky is clear,5818,Clear
+283.78,0,0,75,broken clouds,6272,Clouds
+283.52,0,0,75,broken clouds,5944,Clouds
+283.32,0,0,90,overcast clouds,4949,Clouds
+282.06,0,0,90,overcast clouds,3511,Clouds
+281.95,0,0,90,overcast clouds,3039,Clouds
+281.81,0,0,90,overcast clouds,2679,Clouds
+282.16,0,0,90,overcast clouds,2094,Clouds
+282.53,0,0,90,overcast clouds,1284,Clouds
+283.91,0,0,90,overcast clouds,630,Clouds
+284.64,0,0,90,overcast clouds,410,Clouds
+284.61,0,0,90,overcast clouds,331,Clouds
+283.18,0,0,72,light intensity drizzle,372,Drizzle
+282.26,0,0,72,light rain,739,Rain
+280.77,0,0,72,light intensity drizzle,2561,Drizzle
+278.53,0,0,75,broken clouds,5586,Clouds
+277.64,0,0,75,broken clouds,6992,Clouds
+277.9,0,0,90,overcast clouds,5860,Clouds
+278.18,0,0,90,overcast clouds,5230,Clouds
+279.29,0,0,75,broken clouds,4864,Clouds
+280.45,0,0,75,broken clouds,5146,Clouds
+280.95,0,0,40,scattered clouds,5526,Clouds
+281.74,0,0,40,scattered clouds,5383,Clouds
+281.84,0,0,75,broken clouds,5758,Clouds
+282.45,0,0,75,broken clouds,5889,Clouds
+282.2,0,0,75,broken clouds,6057,Clouds
+281.54,0,0,40,scattered clouds,6028,Clouds
+280.21,0,0,20,few clouds,5257,Clouds
+282.2,0,0,56,sky is clear,1897,Clear
+272.58,0,0,1,sky is clear,1335,Clear
+272.06,0,0,1,sky is clear,769,Clear
+270.99,0,0,1,sky is clear,570,Clear
+270.29,0,0,20,few clouds,413,Clouds
+269.48,0,0,1,sky is clear,399,Clear
+269.27,0,0,1,sky is clear,740,Clear
+268.91,0,0,1,sky is clear,1420,Clear
+268.98,0,0,75,broken clouds,2220,Clouds
+269.23,0,0,40,scattered clouds,3479,Clouds
+272.61,0,0,40,scattered clouds,4546,Clouds
+276.78,0,0,20,few clouds,4579,Clouds
+279.22,0,0,1,sky is clear,4438,Clear
+280.35,0,0,1,sky is clear,4623,Clear
+281.81,0,0,1,sky is clear,4440,Clear
+283.05,0,0,1,sky is clear,4495,Clear
+283.96,0,0,1,sky is clear,4483,Clear
+284.53,0,0,1,sky is clear,4591,Clear
+284.44,0,0,1,sky is clear,4477,Clear
+283.64,0,0,1,sky is clear,4221,Clear
+281.85,0,0,20,few clouds,3672,Clouds
+281.38,0,0,1,sky is clear,3015,Clear
+281.84,0,0,75,broken clouds,2769,Clouds
+282.23,0,0,90,overcast clouds,2875,Clouds
+282.18,0,0,90,overcast clouds,1931,Clouds
+282.49,0,0,90,overcast clouds,1309,Clouds
+282.54,0,0,90,overcast clouds,870,Clouds
+282.58,0,0,90,overcast clouds,654,Clouds
+282.23,0,0,90,overcast clouds,364,Clouds
+282.08,0,0,90,overcast clouds,262,Clouds
+282.23,0,0,90,overcast clouds,505,Clouds
+282.24,0,0,90,overcast clouds,861,Clouds
+282.24,0,0,90,overcast clouds,1132,Clouds
+282.24,0,0,57,mist,1797,Mist
+282.43,0,0,57,light intensity drizzle,2685,Drizzle
+282.43,0,0,57,mist,2685,Mist
+282.43,0,0,57,haze,2685,Haze
+282.33,0,0,57,light intensity drizzle,3370,Drizzle
+282.33,0,0,57,mist,3370,Mist
+282.82,0,0,57,light intensity drizzle,3662,Drizzle
+282.82,0,0,57,mist,3662,Mist
+283.33,0,0,57,mist,4076,Mist
+283.33,0,0,57,light rain,4076,Rain
+283.33,0,0,57,light intensity drizzle,4076,Drizzle
+283.75,0,0,93,light rain,4128,Rain
+283.75,0,0,93,mist,4128,Mist
+283.75,0,0,93,light intensity drizzle,4128,Drizzle
+284.09,0,0,93,mist,4358,Mist
+284.09,0,0,93,light rain,4358,Rain
+284.09,0,0,93,light intensity drizzle,4358,Drizzle
+284.55,0,0,93,mist,4342,Mist
+284.55,0,0,93,light rain,4342,Rain
+284.68,0,0,93,mist,4234,Mist
+284.64,0,0,93,light rain,4271,Rain
+284.64,0,0,93,mist,4271,Mist
+284.4,0,0,93,mist,4080,Mist
+284.17,0,0,93,mist,3453,Mist
+284.03,0,0,93,mist,2718,Mist
+283.58,0,0,93,mist,2439,Mist
+283.04,0,0,93,mist,1819,Mist
+281.95,0,0,93,mist,1002,Mist
+281.95,0,0,93,fog,1002,Fog
+281.61,0,0,93,mist,542,Mist
+281.61,0,0,93,fog,542,Fog
+281.57,0,0,85,fog,303,Fog
+281.42,0,0,85,fog,239,Fog
+281.29,0,0,85,mist,335,Mist
+281.29,0,0,85,fog,335,Fog
+281.02,0,0,85,mist,810,Mist
+281.02,0,0,85,fog,810,Fog
+280.82,0,0,85,mist,2606,Mist
+280.82,0,0,85,fog,2606,Fog
+280.39,0,0,85,mist,5714,Mist
+280.19,0,0,100,mist,6798,Mist
+279.82,0,0,100,mist,6114,Mist
+279.75,0,0,100,mist,5094,Mist
+280.07,0,0,100,mist,4473,Mist
+280.32,0,0,90,overcast clouds,4529,Clouds
+281.72,0,0,100,sky is clear,4823,Clear
+284.01,0,0,40,scattered clouds,4872,Clouds
+285.88,0,0,1,sky is clear,5238,Clear
+286.87,0,0,1,sky is clear,5584,Clear
+287.6,0,0,20,few clouds,6246,Clouds
+287.27,0,0,20,few clouds,5957,Clouds
+286.18,0,0,20,few clouds,4535,Clouds
+285.2,0,0,75,broken clouds,3234,Clouds
+284.68,0,0,75,broken clouds,2677,Clouds
+284.49,0,0,90,overcast clouds,2077,Clouds
+283.54,0,0,20,few clouds,1380,Clouds
+282.33,0,0,75,broken clouds,927,Clouds
+281.21,0,0,20,few clouds,500,Clouds
+279.87,0,0,1,sky is clear,324,Clear
+278.93,0,0,1,sky is clear,257,Clear
+277.91,0,0,1,sky is clear,354,Clear
+277.21,0,0,1,sky is clear,769,Clear
+276.61,0,0,1,sky is clear,2769,Clear
+276.11,0,0,1,sky is clear,5789,Clear
+274.81,0,0,20,few clouds,7055,Clouds
+274.99,0,0,20,few clouds,6408,Clouds
+277.91,0,0,20,few clouds,5254,Clouds
+280.71,0,0,20,few clouds,4547,Clouds
+283.85,0,0,20,few clouds,4784,Clouds
+286.01,0,0,40,scattered clouds,5015,Clouds
+286.31,0,0,1,sky is clear,5057,Clear
+288.15,0,0,75,broken clouds,5430,Clouds
+289.15,0,0,75,broken clouds,5813,Clouds
+288.99,0,0,75,broken clouds,6496,Clouds
+288.86,0,0,75,broken clouds,6429,Clouds
+288.16,0,0,90,overcast clouds,5142,Clouds
+287.28,0,0,68,light rain,3311,Rain
+287.04,0,0,90,overcast clouds,2777,Clouds
+286.9,0,0,90,overcast clouds,2331,Clouds
+287.09,0,0,90,overcast clouds,1767,Clouds
+287.09,0,0,90,overcast clouds,1093,Clouds
+286.89,0,0,75,broken clouds,554,Clouds
+286.93,0,0,75,broken clouds,333,Clouds
+286.93,0,0,90,overcast clouds,267,Clouds
+287.07,0,0,90,overcast clouds,358,Clouds
+286.56,0,0,75,broken clouds,777,Clouds
+285.91,0,0,90,overcast clouds,2732,Clouds
+285.29,0,0,90,overcast clouds,5637,Clouds
+284.92,0,0,75,broken clouds,5564,Clouds
+285.35,0,0,75,broken clouds,6274,Clouds
+285.72,0,0,100,proximity shower rain,5403,Rain
+285.72,0,0,100,light rain,5403,Rain
+287.09,0,0,75,broken clouds,4680,Clouds
+288.31,0,0,75,broken clouds,4642,Clouds
+288.61,0,0,1,sky is clear,4979,Clear
+290.32,0,0,1,sky is clear,4851,Clear
+291.36,0,0,1,sky is clear,4291,Clear
+292.01,0,0,1,sky is clear,4714,Clear
+292.61,0,0,1,sky is clear,6723,Clear
+292.65,0,0,1,sky is clear,6180,Clear
+290.52,0,0,40,scattered clouds,4843,Clouds
+288.35,0,0,40,scattered clouds,3435,Clouds
+286.72,0,0,40,scattered clouds,2921,Clouds
+285.49,0,0,40,scattered clouds,2763,Clouds
+284.22,0,0,20,few clouds,1930,Clouds
+283.8,0,0,20,few clouds,1160,Clouds
+283.72,0,0,20,few clouds,654,Clouds
+282.8,0,0,40,scattered clouds,374,Clouds
+282.32,0,0,99,mist,301,Mist
+282.38,0,0,99,mist,397,Mist
+282.76,0,0,90,overcast clouds,794,Clouds
+282.88,0,0,99,mist,2564,Mist
+284.18,0,0,75,broken clouds,5358,Clouds
+284.69,0,0,90,overcast clouds,6441,Clouds
+285,0,0,90,overcast clouds,5536,Clouds
+286.9,0,0,99,light rain,5256,Rain
+288.35,0,0,90,overcast clouds,4619,Clouds
+289.59,0,0,90,overcast clouds,5107,Clouds
+288.27,0,0,99,light rain,5147,Rain
+286.41,0,0,90,overcast clouds,5283,Clouds
+285.96,0,0,90,overcast clouds,5704,Clouds
+287.04,0,0,90,overcast clouds,5887,Clouds
+287.18,0,0,90,overcast clouds,6307,Clouds
+286.94,0,0,90,overcast clouds,5953,Clouds
+286.01,0,0,90,overcast clouds,4519,Clouds
+284.67,0,0,100,light intensity drizzle,3427,Drizzle
+283.44,0,0,100,light rain,2921,Rain
+282.51,0,0,100,light intensity drizzle,2649,Drizzle
+281.9,0,0,90,overcast clouds,2005,Clouds
+281.85,0,0,90,overcast clouds,1177,Clouds
+281.28,0,0,90,overcast clouds,699,Clouds
+280.97,0,0,87,mist,436,Mist
+280.44,0,0,87,light intensity drizzle,353,Drizzle
+280.44,0,0,87,mist,353,Mist
+280.02,0,0,87,mist,399,Mist
+279.79,0,0,87,light intensity drizzle,720,Drizzle
+279.79,0,0,87,mist,720,Mist
+279.79,0,0,87,light rain,720,Rain
+279.79,0,0,87,drizzle,720,Drizzle
+279.74,0,0,87,mist,2370,Mist
+279.74,0,0,87,light rain,2370,Rain
+279.65,0,0,87,light intensity drizzle,5162,Drizzle
+279.65,0,0,87,mist,5162,Mist
+279.65,0,0,87,light rain,5162,Rain
+279.45,0,0,91,mist,5777,Mist
+279.45,0,0,91,moderate rain,5777,Rain
+279.22,0,0,91,light intensity drizzle,5235,Drizzle
+279.22,0,0,91,mist,5235,Mist
+279.22,0,0,91,light rain,5235,Rain
+279.35,0,0,91,light rain,4606,Rain
+279.35,0,0,91,mist,4606,Mist
+279.92,0,0,91,mist,4328,Mist
+280.44,0,0,90,overcast clouds,4282,Clouds
+281,0,0,90,overcast clouds,4489,Clouds
+281.51,0,0,90,overcast clouds,4908,Clouds
+281.93,0,0,92,mist,5620,Mist
+281.94,0,0,92,mist,5849,Mist
+281.94,0,0,92,light intensity drizzle,5849,Drizzle
+282.27,0,0,92,moderate rain,4945,Rain
+282.41,0,0,92,light rain,4619,Rain
+282.21,0,0,90,overcast clouds,4479,Clouds
+281.69,0,0,75,broken clouds,3804,Clouds
+281.26,0,0,90,overcast clouds,2908,Clouds
+280.66,0,0,92,mist,2942,Mist
+280.43,0,0,92,drizzle,3077,Drizzle
+280.43,0,0,92,light intensity drizzle,3077,Drizzle
+280.1,0,0,92,mist,2051,Mist
+280.1,0,0,92,light rain,2051,Rain
+280.1,0,0,92,light intensity drizzle,2051,Drizzle
+280.06,0,0,92,light rain,1270,Rain
+280.06,0,0,92,moderate rain,1270,Rain
+280.28,0,0,96,drizzle,773,Drizzle
+280.28,0,0,96,light rain,773,Rain
+280.38,0,0,96,light intensity drizzle,589,Drizzle
+280.62,0,0,96,light intensity drizzle,432,Drizzle
+280.62,0,0,96,mist,432,Mist
+280.91,0,0,96,mist,401,Mist
+280.91,0,0,96,drizzle,401,Drizzle
+280.91,0,0,96,light rain,401,Rain
+280.96,0,0,96,light rain,759,Rain
+280.96,0,0,96,mist,759,Mist
+280.96,0,0,96,drizzle,759,Drizzle
+281.13,0,0,96,light rain,1313,Rain
+281.13,0,0,96,mist,1313,Mist
+281.13,0,0,96,light intensity drizzle,1313,Drizzle
+281.28,0,0,100,light rain,1824,Rain
+281.28,0,0,100,mist,1824,Mist
+281.28,0,0,100,drizzle,1824,Drizzle
+281.19,0,0,100,light rain,2787,Rain
+281.19,0,0,100,mist,2787,Mist
+281.19,0,0,100,drizzle,2787,Drizzle
+281.7,0,0,100,light rain,3713,Rain
+281.7,0,0,100,drizzle,3713,Drizzle
+281.7,0,0,100,mist,3713,Mist
+281.7,0,0,100,light intensity drizzle,3713,Drizzle
+282.02,0,0,100,light rain,3815,Rain
+282.02,0,0,100,drizzle,3815,Drizzle
+282.02,0,0,100,mist,3815,Mist
+282.02,0,0,100,moderate rain,3815,Rain
+282.35,0,0,100,light rain,4339,Rain
+282.35,0,0,100,mist,4339,Mist
+282.35,0,0,100,drizzle,4339,Drizzle
+282.71,0,0,100,heavy intensity rain,4613,Rain
+282.71,0,0,100,mist,4613,Mist
+282.71,0,0,100,light rain,4613,Rain
+282.71,0,0,100,moderate rain,4613,Rain
+283.31,0,0,48,light rain,4507,Rain
+283.79,0,0,90,overcast clouds,4452,Clouds
+284.2,0,0,75,broken clouds,4636,Clouds
+284.32,0,0,90,overcast clouds,4810,Clouds
+284.13,0,0,75,broken clouds,5125,Clouds
+283.14,0,0,40,scattered clouds,4337,Clouds
+281.4,0,0,40,scattered clouds,3644,Clouds
+280.47,0,0,20,few clouds,3107,Clouds
+279.52,0,0,20,few clouds,2929,Clouds
+278.85,0,0,48,mist,2865,Mist
+278.12,0,0,48,fog,2340,Fog
+277.94,0,0,48,mist,1372,Mist
+275.93,0,0,60,fog,1928,Fog
+275.93,0,0,60,mist,1928,Mist
+284.09,0,0,75,broken clouds,4695,Clouds
+282.6,0,0,75,broken clouds,4335,Clouds
+281.72,0,0,90,overcast clouds,1583,Clouds
+281.26,0,0,90,overcast clouds,959,Clouds
+281.29,0,0,75,broken clouds,498,Clouds
+281.01,0,0,75,broken clouds,306,Clouds
+280.57,0,0,40,scattered clouds,259,Clouds
+280.54,0,0,75,broken clouds,324,Clouds
+279.37,0,0,8,mist,806,Mist
+279.18,0,0,8,mist,2622,Mist
+279.05,0,0,8,mist,5456,Mist
